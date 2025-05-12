@@ -1,5 +1,3 @@
-import random
-
 class Human:
     def __init__(self, name, gender, nationality):
         self.name = name
